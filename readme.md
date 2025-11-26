@@ -1,6 +1,6 @@
 # Student Depression Classifier
 
-### Classifiers Built:
+## Classifiers Built:
 Logistic Regression  
 
 Random Forests  
@@ -11,7 +11,7 @@ Support Vector Machine
 
 Neural Network  
 
-### Data Source:  
+## Data Source:  
 (https://www.kaggle.com/datasets/hopesb/student-depression-dataset)  
 
 **Dataset Features:**  
@@ -24,7 +24,7 @@ Academic.Pressure | Work.Pressure | Job.Satisfaction | Sleep.Duration | Financia
 To develop and optimize machine learning models suitable for data. Tune the hyperparameters comapring the accuracy using F1-scores and cross-validation.  
 
 #### ACCURACY SCORES:  
-Known Dataset  |  Unknown Dataset
+Known Dataset  |  Unknown Dataset  
 Logistic Regression: 86 %  |  86.3 %  
 Random Forest: 84.7 %  |  86.3 %  
 Ensemble Model:  86 %  
