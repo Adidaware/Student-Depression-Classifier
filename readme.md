@@ -1,6 +1,6 @@
 # Student Depression Classifier
 
-## Classifiers Built:
+### Classifiers Built:
 Logistic Regression  
 
 Random Forests  
@@ -11,7 +11,7 @@ Support Vector Machine
 
 Neural Network  
 
-Data Source:  
+### Data Source:  
 (https://www.kaggle.com/datasets/hopesb/student-depression-dataset)  
 
 **Dataset Features:**  
