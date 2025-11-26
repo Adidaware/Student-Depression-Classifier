@@ -1,7 +1,6 @@
 ---
-title: "Signature Project"
+title: "Student Depression Dataset Classifier"
 author: "Daware, Aditya"
-date: "Spring 2025"
 ---
 
 ## Read the CSV file
