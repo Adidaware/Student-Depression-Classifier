@@ -33,7 +33,24 @@ Neural Network: Did not converge in the given time.
 
 #### CONCLUSION:  
 The neural network model did not converge and thus the model failed.
-The logistic regression model gave highest accuracy since the data was linear. Random forest model capped highest accuracy at 200 trees.
+The logistic regression model gave highest accuracy since the data was linear.  
+Random forest model capped highest accuracy at 200 trees.  
+
+
+## KEY STEPS PERFORMED & LEARNINGS:
+- Exploratory Data Analysis
+- Identifying and handling missing data
+- Data Visualization
+- Feature Encoding and Selection
+- Corelation Matrix
+- Treating Outliers
+- Feature Normalization
+- Hyperparameter Tunning
+- Cross Validation
+
+
+
+
 
 
 
