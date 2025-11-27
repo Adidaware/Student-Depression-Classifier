@@ -29,7 +29,14 @@ Logistic Regression: 86 %  |  86.3 %
 Random Forest: 84.7 %  |  86.3 %  
 Ensemble Model:  86 %  
 Support Vector Machine: 86.6 %  |  73.5 %  
-Neural Network: Did not converge in the given time.
+Neural Network: Did not converge in the given time.  
+
+#### CONCLUSION:  
+The neural network model did not converge and thus the model failed.
+The logistic regression model gave highest accuracy since the data was linear. Random forest model capped highest accuracy at 200 trees.
+
+
+
 
 
 
